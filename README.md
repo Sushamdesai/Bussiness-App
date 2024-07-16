@@ -1,4 +1,4 @@
-Business App
+#Business App
 This Business App is a front-end application developed using React.js and Tailwind CSS. The project emphasizes practical experience in front-end development, focusing on UI/UX design principles, component-based architecture, and advanced styling techniques.
 
 Features
